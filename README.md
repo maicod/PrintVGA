@@ -8,8 +8,8 @@ Written by maicod in 2021
 
 Copyright (c) 2021 maicod. All rights reserved.
 
-This code is open source. It is released under the [MIT License](LICENSE.txt). 
-Please see the included LICENSE.txt file for more information.
+This code is open source. It is released under the [MIT License](LICENSE). 
+Please see the included [LICENSE file](LICENSE) for more information.
 
 # Dependencies
 
